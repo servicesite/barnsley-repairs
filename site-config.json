@@ -1,15 +1,30 @@
 {
-  "name": "Reykjavík Repairs",
-  "title": "Reykjavík Repairs - Appliance Repairs in Reykjavík and surrounding areas!",
-  "area": "Reykjavík",
+  "area": "Barnsley",
+  "telephone": "",
+  "domain": "barnsleyrepairs.co.uk",
+  "whatConvertsTrackingCode": 0,
+  "email": "bookings@barnsleyrepairs.co.uk",
+  "name": "Barnsley Repairs",
+  "title": "Barnsley Repairs - Appliance Repairs in Barnsley and surrounding areas!",
   "nearbyAreas": [
-    "Kópavogur",
-    "Gardabaer",
-    "Mosfellsbær"
-  ],
-  "telephone": "+354 800 8111",
-  "email": "bookings@reykjavikrepairs.co.uk",
-  "domain": "reykjavikrepairs.co.uk",
-  "whatConvertsTrackingCode": 99999,
-  "googleTagManagerId": ""
+    "Dodworth",
+    "Stainborough",
+    "Birdwell",
+    "Cudworth",
+    "Darton",
+    "Silkstone",
+    "Royston",
+    "Hoyland Nether",
+    "Cawthorne",
+    "Wombwell",
+    "Shafton",
+    "Notton",
+    "Woolley",
+    "Darfield",
+    "Grimethorpe",
+    "Little Houghton",
+    "Wortley",
+    "Great Houghton",
+    "Ryhill"
+  ]
 }
